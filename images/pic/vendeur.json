@@ -1,0 +1,72 @@
+[
+	{
+		"id":0,
+		"name":"Fofana Oumar",
+		"likes":113,
+		"tonnes":2000,
+		"imageURL":"https://img.icons8.com/?size=512&id=23309&format=png"
+	},
+	{
+		"id":1,
+		"name":"Touré Yaya",
+		"likes":213,
+		"tonnes":2500,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	},
+	{
+		"id":2,
+		"name":"Fofana Lacina",
+		"likes":123,
+		"tonnes":1000,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	},
+	{
+		"id":3,
+		"name":"Kolo Oumar",
+		"likes":103,
+		"tonnes":1500,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	},
+	{
+		"id":4,
+		"name":"Soro Salif",
+		"likes":153,
+		"tonnes":200,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	},
+	{
+		"id":5,
+		"name":"Sylla Oumar",
+		"likes":213,
+		"tonnes":2800,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	},
+	{
+		"id":6,
+		"name":"Traoré Souleymane",
+		"likes":213,
+		"tonnes":2800,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	},
+	{
+		"id":7,
+		"name":"Solo Oumar",
+		"likes":213,
+		"tonnes":2800,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	},
+	{
+		"id":8,
+		"name":"Bamba Tieba",
+		"likes":213,
+		"tonnes":2800,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	},
+	{
+		"id":9,
+		"name":"Samory Touré",
+		"likes":213,
+		"tonnes":2800,
+		"imageURL":"https://img.icons8.com/?size=512&id=SZm6AjmdRxl4&format=png"
+	}
+]
